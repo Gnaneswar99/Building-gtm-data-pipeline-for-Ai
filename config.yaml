@@ -1,0 +1,52 @@
+# GTM Pipeline Configuration
+
+# ICP Scoring Criteria
+icp_criteria:
+  firm_size:
+    min_lawyers: 50
+    max_lawyers: 500
+    # weight: set your own
+
+  practice_areas:
+    preferred:
+      - "Corporate Law"
+      - "Litigation"
+      - "Real Estate"
+      - "Employment Law"
+    # weight: set your own
+
+  geography:
+    preferred_regions:
+      - "US"
+      - "Australia"
+      - "Singapore"
+      - "Hong Kong"
+      - "Japan"
+    # weight: set your own
+
+# Experiment Configuration
+experiments:
+  email_variants:
+    variant_a:
+      subject: "Your subject line here"
+    variant_b:
+      subject: "Your subject line here"
+
+# API Configuration
+apis:
+  enrichment:
+    base_url: "http://localhost:8000"
+    rate_limit: 20  # requests per minute (server-enforced)
+    timeout: 30
+    max_retries: 3
+
+  webhooks:
+    crm_endpoint: "http://localhost:8000/webhooks/crm"
+    email_endpoint: "http://localhost:8000/webhooks/email"
+    timeout: 10
+    max_retries: 2
+
+# Pipeline Settings
+pipeline:
+  batch_size: 50
+  concurrent_requests: 10
