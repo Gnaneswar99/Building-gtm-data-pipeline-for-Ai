@@ -2,7 +2,7 @@
 
 ## Overview
 
-You're a full-stack engineer at a legal AI startup building the GTM data infrastructure to acquire midsize law firm clients across the US, Australia, and Asia. This pipeline will power lead acquisition from ingestion through experiment assignment, ensuring a seamless integration of various data sources and systems to optimize customer acquisition strategies.
+For a full-stack engineer at a legal AI startup building the GTM data infrastructure to acquire midsize law firm clients across the US, Australia, and Asia. This pipeline will power lead acquisition from ingestion through experiment assignment, ensuring a seamless integration of various data sources and systems to optimize customer acquisition strategies.
 
 ## Problem Statement
 
