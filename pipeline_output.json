@@ -1,0 +1,1016 @@
+{
+  "total_raw_firms": 55,
+  "duplicates_removed": 5,
+  "unique_firms_processed": 50,
+  "route_distribution": {
+    "high_priority": 41,
+    "nurture": 9,
+    "disqualified": 0
+  },
+  "experiment_distribution": {
+    "variant_a": 28,
+    "variant_b": 22
+  },
+  "results": [
+    {
+      "firm_id": "firm_001",
+      "name": "Baker & Sterling LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_001",
+        "name": "Elizabeth Thompson",
+        "title": "Senior Partner",
+        "phone": "+1-450-328-3286",
+        "email": "elizabeth.thompson@bakersterling.com",
+        "linkedin_url": "https://linkedin.com/in/elizabeth-thompson-5506"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_002",
+      "name": "Thornton Hughes Partners",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_002",
+        "name": "Lucas Clark",
+        "title": "Of Counsel",
+        "phone": "+1-232-130-2535",
+        "email": "lucas.clark@thorntonhughes.com",
+        "linkedin_url": null
+      },
+      "has_email": true,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_003",
+      "name": "Clarke Whitfield",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_003",
+        "name": "Mia Young",
+        "title": "Chief Operating Officer",
+        "phone": "+1-629-325-8359",
+        "email": "mia.young@clarkewhitfield.com.au",
+        "linkedin_url": "https://linkedin.com/in/mia-young-9928"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_004",
+      "name": "Matsuda & Ono Legal",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_004",
+        "name": "James Hall",
+        "title": "Of Counsel",
+        "phone": "+1-548-384-3547",
+        "email": "james.hall@matsudaono.jp",
+        "linkedin_url": "https://linkedin.com/in/james-hall-7924"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_005",
+      "name": "Prescott Law Group",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_005",
+        "name": "Yuki Rodriguez",
+        "title": "Director of Business Development",
+        "phone": "+1-589-199-6881",
+        "email": "yuki.rodriguez@prescottlaw.com",
+        "linkedin_url": "https://linkedin.com/in/yuki-rodriguez-2519"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_006",
+      "name": "Ashford & Crane",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_006",
+        "name": "Michael Watanabe",
+        "title": "Chief Operating Officer",
+        "phone": "+1-327-487-2291",
+        "email": "michael.watanabe@ashfordcrane.com",
+        "linkedin_url": "https://linkedin.com/in/michael-watanabe-9785"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_007",
+      "name": "Lim & Partners",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_007",
+        "name": "Hana Patel",
+        "title": "Of Counsel",
+        "phone": "+1-921-171-1750",
+        "email": "hana.patel@limpartners.sg",
+        "linkedin_url": "https://linkedin.com/in/hana-patel-4150"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_008",
+      "name": "Henderson Marks",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_008",
+        "name": "Linda King",
+        "title": "Director of Business Development",
+        "phone": "+1-589-384-8428",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/linda-king-2654"
+      },
+      "has_email": false,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_009",
+      "name": "Rivera & Goldstein",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_009",
+        "name": "Karen Robinson",
+        "title": "Partner",
+        "phone": "+1-746-846-5010",
+        "email": "karen.robinson@riveragoldstein.com",
+        "linkedin_url": "https://linkedin.com/in/karen-robinson-3803"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_010",
+      "name": "Whitmore Chambers",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_010",
+        "name": "Karen Ishikawa",
+        "title": "Of Counsel",
+        "phone": "+1-901-432-1916",
+        "email": "karen.ishikawa@whitmorechambers.com",
+        "linkedin_url": "https://linkedin.com/in/karen-ishikawa-4598"
+      },
+      "has_email": true,
+      "icp_score": 0.646,
+      "route": "nurture",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_011",
+      "name": "Chen & Associates",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_011",
+        "name": "Kenji Kim",
+        "title": "Of Counsel",
+        "phone": "+1-267-316-6155",
+        "email": "kenji.kim@chenassociates.hk",
+        "linkedin_url": "https://linkedin.com/in/kenji-kim-5386"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_012",
+      "name": "Oakhurst Legal",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_012",
+        "name": "Priya Watanabe",
+        "title": "Chief Operating Officer",
+        "phone": "+1-471-242-5040",
+        "email": "priya.watanabe@oakhurstlegal.com",
+        "linkedin_url": "https://linkedin.com/in/priya-watanabe-3340"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_013",
+      "name": "Nguyen Park LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_013",
+        "name": "Emma Hayashi",
+        "title": "General Counsel",
+        "phone": "+1-570-324-3266",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/emma-hayashi-7543"
+      },
+      "has_email": false,
+      "icp_score": 0.737,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_014",
+      "name": "Barlow Dean & Associates",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_014",
+        "name": "Elizabeth Walker",
+        "title": "Head of Innovation",
+        "phone": "+1-896-532-2040",
+        "email": "elizabeth.walker@barlowdean.com.au",
+        "linkedin_url": "https://linkedin.com/in/elizabeth-walker-3621"
+      },
+      "has_email": true,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_015",
+      "name": "Fujimoto Legal Group",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_015",
+        "name": "Charlotte Nakamura",
+        "title": "Senior Partner",
+        "phone": "+1-766-981-1188",
+        "email": "charlotte.nakamura@fujimotolegal.jp",
+        "linkedin_url": "https://linkedin.com/in/charlotte-nakamura-5119"
+      },
+      "has_email": true,
+      "icp_score": 0.6,
+      "route": "nurture",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_016",
+      "name": "Hargrove & Mitchell",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_016",
+        "name": "Lucas Hill",
+        "title": "Partner",
+        "phone": "+1-314-400-8123",
+        "email": "lucas.hill@hargrovemitchell.com",
+        "linkedin_url": "https://linkedin.com/in/lucas-hill-6573"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_017",
+      "name": "Sinclair Rowe Partners",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_017",
+        "name": "Matthew Takahashi",
+        "title": "Of Counsel",
+        "phone": "+1-719-208-5889",
+        "email": "matthew.takahashi@sinclairrowe.com",
+        "linkedin_url": null
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_018",
+      "name": "Tan & Loh Advocates",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_018",
+        "name": "Lucas Nakamura",
+        "title": "Managing Partner",
+        "phone": "+1-813-431-9005",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/lucas-nakamura-1009"
+      },
+      "has_email": false,
+      "icp_score": 0.979,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_019",
+      "name": "Montague Blackwell",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_019",
+        "name": "Nancy Wright",
+        "title": "Senior Partner",
+        "phone": "+1-446-999-2290",
+        "email": "nancy.wright@montagueblackwell.com.au",
+        "linkedin_url": "https://linkedin.com/in/nancy-wright-1949"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_020",
+      "name": "Kim & Yoon Legal",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_020",
+        "name": "Robert Mori",
+        "title": "Partner",
+        "phone": "+1-331-775-8787",
+        "email": "robert.mori@kimyoon.com",
+        "linkedin_url": null
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_021",
+      "name": "Calloway & Swift",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_021",
+        "name": "Emma Hernandez",
+        "title": "Chief Operating Officer",
+        "phone": "+1-973-847-4295",
+        "email": "emma.hernandez@callowayswift.com",
+        "linkedin_url": "https://linkedin.com/in/emma-hernandez-9835"
+      },
+      "has_email": true,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_022",
+      "name": "Drummond Falk LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_022",
+        "name": "Mei Yamamoto",
+        "title": "Of Counsel",
+        "phone": "+1-662-223-5061",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/mei-yamamoto-9479"
+      },
+      "has_email": false,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_023",
+      "name": "Watanabe & Ito",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_023",
+        "name": "Mia King",
+        "title": "Of Counsel",
+        "phone": "+1-207-172-1964",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/mia-king-4608"
+      },
+      "has_email": false,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_024",
+      "name": "Pemberton Hayes",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_024",
+        "name": "Yuki Robinson",
+        "title": "Of Counsel",
+        "phone": "+1-443-385-8953",
+        "email": "yuki.robinson@pembertonhayes.com.au",
+        "linkedin_url": "https://linkedin.com/in/yuki-robinson-9423"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_025",
+      "name": "Ortiz & Delgado",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_025",
+        "name": "Hiroshi Okada",
+        "title": "Head of Innovation",
+        "phone": "+1-448-903-8749",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/hiroshi-okada-8744"
+      },
+      "has_email": false,
+      "icp_score": 0.488,
+      "route": "nurture",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_026",
+      "name": "Hartley Moore & Co",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_026",
+        "name": "Emma Singh",
+        "title": "Senior Partner",
+        "phone": "+1-620-578-1887",
+        "email": "emma.singh@hartleymoore.com",
+        "linkedin_url": null
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_027",
+      "name": "Leung & Chan",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_027",
+        "name": "David Wright",
+        "title": "Partner",
+        "phone": "+1-394-649-8350",
+        "email": "david.wright@leungchan.hk",
+        "linkedin_url": "https://linkedin.com/in/david-wright-4139"
+      },
+      "has_email": true,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_028",
+      "name": "Stokes Whitaker LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_028",
+        "name": "Karen Watanabe",
+        "title": "Managing Partner",
+        "phone": "+1-277-553-2604",
+        "email": "karen.watanabe@stokeswhitaker.com",
+        "linkedin_url": "https://linkedin.com/in/karen-watanabe-5092"
+      },
+      "has_email": true,
+      "icp_score": 0.6,
+      "route": "nurture",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_029",
+      "name": "MacGregor & Finch",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_029",
+        "name": "Lucas Anderson",
+        "title": "Partner",
+        "phone": "+1-971-969-4872",
+        "email": "lucas.anderson@macgregorfinch.com.au",
+        "linkedin_url": "https://linkedin.com/in/lucas-anderson-2528"
+      },
+      "has_email": true,
+      "icp_score": 0.958,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_030",
+      "name": "Yeung Associates",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_030",
+        "name": "Ethan Hernandez",
+        "title": "Managing Partner",
+        "phone": "+1-260-268-7209",
+        "email": "ethan.hernandez@yeungassociates.sg",
+        "linkedin_url": "https://linkedin.com/in/ethan-hernandez-7570"
+      },
+      "has_email": true,
+      "icp_score": 0.516,
+      "route": "nurture",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_031",
+      "name": "Caldwell & Pratt",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_031",
+        "name": "Matthew Watanabe",
+        "title": "Partner",
+        "phone": "+1-633-813-8973",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/matthew-watanabe-5673"
+      },
+      "has_email": false,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_032",
+      "name": "Nakamura Legal",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_032",
+        "name": "Jennifer Hayashi",
+        "title": "Managing Partner",
+        "phone": "+1-262-865-6138",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/jennifer-hayashi-9883"
+      },
+      "has_email": false,
+      "icp_score": 0.6,
+      "route": "nurture",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_033",
+      "name": "Bradshaw & Kemp",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_033",
+        "name": "Isabella Hall",
+        "title": "Senior Partner",
+        "phone": "+1-720-182-4044",
+        "email": "isabella.hall@bradshawkemp.com",
+        "linkedin_url": "https://linkedin.com/in/isabella-hall-1931"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_034",
+      "name": "Langford Pierce",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_034",
+        "name": "Jessica Kim",
+        "title": "Senior Partner",
+        "phone": "+1-783-352-1651",
+        "email": "jessica.kim@langfordpierce.com.au",
+        "linkedin_url": "https://linkedin.com/in/jessica-kim-2964"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_035",
+      "name": "Park & Sun LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_035",
+        "name": "Sakura Okada",
+        "title": "Director of Business Development",
+        "phone": "+1-523-367-4346",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/sakura-okada-9565"
+      },
+      "has_email": false,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_036",
+      "name": "Vasquez Law Partners",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_036",
+        "name": "Nancy Watanabe",
+        "title": "General Counsel",
+        "phone": "+1-969-174-1152",
+        "email": "nancy.watanabe@vasquezlaw.com",
+        "linkedin_url": "https://linkedin.com/in/nancy-watanabe-6180"
+      },
+      "has_email": true,
+      "icp_score": 0.404,
+      "route": "nurture",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_037",
+      "name": "Aldridge & Shaw",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_037",
+        "name": "Hiroshi Rodriguez",
+        "title": "Chief Operating Officer",
+        "phone": "+1-750-318-9288",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/hiroshi-rodriguez-2200"
+      },
+      "has_email": false,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_038",
+      "name": "Koh & Teo Advocates",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_038",
+        "name": "Robert Wright",
+        "title": "Chief Operating Officer",
+        "phone": "+1-491-261-8179",
+        "email": "robert.wright@kohteo.sg",
+        "linkedin_url": "https://linkedin.com/in/robert-wright-7054"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_039",
+      "name": "Holt Jennings Group",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_039",
+        "name": "Isabella Anderson",
+        "title": "Chief Operating Officer",
+        "phone": "+1-879-206-3200",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/isabella-anderson-5905"
+      },
+      "has_email": false,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_040",
+      "name": "Takahashi & Mori",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_040",
+        "name": "Mia Walker",
+        "title": "Director of Business Development",
+        "phone": "+1-488-719-4450",
+        "email": "mia.walker@takahashimori.jp",
+        "linkedin_url": null
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_041",
+      "name": "Beckett Dunne LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_041",
+        "name": "Matthew Takahashi",
+        "title": "Senior Partner",
+        "phone": "+1-457-966-1832",
+        "email": "matthew.takahashi@beckettdunne.com.au",
+        "linkedin_url": "https://linkedin.com/in/matthew-takahashi-9004"
+      },
+      "has_email": true,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_042",
+      "name": "Graham & Lockhart",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_042",
+        "name": "Karen Garcia",
+        "title": "Chief Operating Officer",
+        "phone": "+1-541-889-3143",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/karen-garcia-1058"
+      },
+      "has_email": false,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_043",
+      "name": "Wong & Li Legal",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_043",
+        "name": "Emma Ishikawa",
+        "title": "Managing Partner",
+        "phone": "+1-314-177-3442",
+        "email": "emma.ishikawa@wongli.hk",
+        "linkedin_url": "https://linkedin.com/in/emma-ishikawa-1158"
+      },
+      "has_email": true,
+      "icp_score": 1.0,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_044",
+      "name": "Mercer & Vale",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_044",
+        "name": "Sakura Ishikawa",
+        "title": "Chief Operating Officer",
+        "phone": "+1-640-230-1685",
+        "email": "sakura.ishikawa@mercervale.com",
+        "linkedin_url": "https://linkedin.com/in/sakura-ishikawa-3426"
+      },
+      "has_email": true,
+      "icp_score": 0.723,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_045",
+      "name": "Sato & Yamamoto",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_045",
+        "name": "Michael Singh",
+        "title": "Director of Business Development",
+        "phone": "+1-898-355-2684",
+        "email": "michael.singh@satoyamamoto.jp",
+        "linkedin_url": "https://linkedin.com/in/michael-singh-4441"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_046",
+      "name": "Fielding Harper",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_046",
+        "name": "Liam Saito",
+        "title": "Partner",
+        "phone": "+1-442-985-3662",
+        "email": "liam.saito@fieldingharper.com.au",
+        "linkedin_url": "https://linkedin.com/in/liam-saito-3532"
+      },
+      "has_email": true,
+      "icp_score": 0.6,
+      "route": "nurture",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_047",
+      "name": "Cooper & Wynn",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_047",
+        "name": "Sarah Allen",
+        "title": "Chief Operating Officer",
+        "phone": "+1-621-921-5065",
+        "email": "sarah.allen@cooperwynn.com",
+        "linkedin_url": null
+      },
+      "has_email": true,
+      "icp_score": 0.555,
+      "route": "nurture",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_048",
+      "name": "Blackstone Avery LLP",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_048",
+        "name": "Raj Garcia",
+        "title": "Director of Business Development",
+        "phone": "+1-427-304-8541",
+        "email": "raj.garcia@blackstoneavery.com",
+        "linkedin_url": "https://linkedin.com/in/raj-garcia-8711"
+      },
+      "has_email": true,
+      "icp_score": 0.7333,
+      "route": "high_priority",
+      "experiment_variant": "variant_a",
+      "email_subject": "How top midsized firms are cutting document review time by 80%",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    },
+    {
+      "firm_id": "firm_049",
+      "name": "Ong & Ramirez",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_049",
+        "name": "Daniel King",
+        "title": "Director of Business Development",
+        "phone": "+1-875-297-7528",
+        "email": null,
+        "linkedin_url": "https://linkedin.com/in/daniel-king-1387"
+      },
+      "has_email": false,
+      "icp_score": 0.853,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "skipped_no_email"
+    },
+    {
+      "firm_id": "firm_050",
+      "name": "Whitfield & Cross",
+      "enriched": true,
+      "contact": {
+        "firm_id": "firm_050",
+        "name": "Karen Singh",
+        "title": "Director of Business Development",
+        "phone": "+1-609-795-9785",
+        "email": "karen.singh@whitfieldcross.com",
+        "linkedin_url": "https://linkedin.com/in/karen-singh-9346"
+      },
+      "has_email": true,
+      "icp_score": 0.8,
+      "route": "high_priority",
+      "experiment_variant": "variant_b",
+      "email_subject": "AI-powered contract analysis built for firms like yours",
+      "crm_webhook": "delivered",
+      "email_webhook": "delivered"
+    }
+  ]
+}
