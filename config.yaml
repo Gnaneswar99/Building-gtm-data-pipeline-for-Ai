@@ -5,7 +5,7 @@ icp_criteria:
   firm_size:
     min_lawyers: 50
     max_lawyers: 500
-    # weight: set your own
+    weight: 0.35
 
   practice_areas:
     preferred:
@@ -13,7 +13,7 @@ icp_criteria:
       - "Litigation"
       - "Real Estate"
       - "Employment Law"
-    # weight: set your own
+    weight: 0.40
 
   geography:
     preferred_regions:
@@ -22,15 +22,20 @@ icp_criteria:
       - "Singapore"
       - "Hong Kong"
       - "Japan"
-    # weight: set your own
+    weight: 0.25
+
+# Lead Routing Thresholds
+routing:
+  high_priority_threshold: 0.70
+  nurture_threshold: 0.40
 
 # Experiment Configuration
 experiments:
   email_variants:
     variant_a:
-      subject: "Your subject line here"
+      subject: "How top midsized firms are cutting document review time by 80%"
     variant_b:
-      subject: "Your subject line here"
+      subject: "AI-powered contract analysis built for firms like yours"
 
 # API Configuration
 apis:
